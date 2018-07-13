@@ -1,0 +1,1158 @@
+Inizio Analisi Soggetto: 105923	2018-04-18-12-16-05
+	Inizio esperimento:3-Restin	2018-04-18-12-16-05
+		Script da eseguire:MS_hcp_icablpenv; 	2018-04-18-12-16-05
+		Inizio Script:MS_hcp_icablpenv	2018-04-18-12-16-05
+Inizio Analisi Soggetto: 105923	2018-04-18-14-30-30
+	Inizio esperimento:3-Restin	2018-04-18-14-30-31
+		Script da eseguire:MS_hcp_icablpenv; 	2018-04-18-14-30-31
+		Inizio Script:MS_hcp_icablpenv	2018-04-18-14-30-31
+Inizio Analisi Soggetto: 105923	2018-04-18-16-57-28
+	Inizio esperimento:3-Restin	2018-04-18-16-57-28
+		Script da eseguire:MS_hcp_icablpenv; 	2018-04-18-16-57-28
+		Inizio Script:MS_hcp_icablpenv	2018-04-18-16-57-28
+		Script: MS_hcp_icablpenv terminato	2018-04-18-17-43-54
+	Esperimento: 3-Restin terminato	2018-04-18-17-43-54
+Inizio Analisi Soggetto: 105923	2018-04-19-14-23-00
+	Inizio esperimento:10-Motort	2018-04-19-14-23-01
+		Script da eseguire:MS_hcp_icablpenv; 	2018-04-19-14-23-01
+		Inizio Script:MS_hcp_icablpenv	2018-04-19-14-23-01
+Inizio Analisi Soggetto: 105923	2018-04-19-14-23-45
+	Inizio esperimento:10-Motort	2018-04-19-14-23-45
+		Script da eseguire:MS_hcp_icablpenv; 	2018-04-19-14-23-45
+		Inizio Script:MS_hcp_icablpenv	2018-04-19-14-23-45
+		Script: MS_hcp_icablpenv terminato	2018-04-19-16-10-57
+	Esperimento: 10-Motort terminato	2018-04-19-16-10-57
+Inizio Analisi Soggetto: 105923	2018-04-19-16-10-57
+	Inizio esperimento:11-Motort	2018-04-19-16-10-57
+		Script da eseguire:MS_hcp_icablpenv; 	2018-04-19-16-10-57
+		Inizio Script:MS_hcp_icablpenv	2018-04-19-16-10-57
+Inizio Analisi Soggetto: 105923	2018-04-19-17-13-11
+	Inizio esperimento:10-Motort	2018-04-19-17-13-11
+		Script da eseguire:MS_hcp_icablpenv; 	2018-04-19-17-13-11
+		Inizio Script:MS_hcp_icablpenv	2018-04-19-17-13-11
+Inizio Analisi Soggetto: 109123	2018-05-08-14-45-41
+	Inizio esperimento:11-Motort	2018-05-08-14-45-42
+		Script da eseguire:hcp_icaclass_qc;; 	2018-05-08-14-45-42
+		Inizio Script:hcp_icaclass_qc;	2018-05-08-14-45-42
+		Script: hcp_icaclass_qc; terminato	2018-05-08-14-55-15
+	Esperimento: 11-Motort terminato	2018-05-08-14-55-15
+Inizio Analisi Soggetto: 109123	2018-05-08-14-55-17
+	Inizio esperimento:11-Motort	2018-05-08-14-55-17
+		Script da eseguire:hcp_icamne;; 	2018-05-08-14-55-17
+		Inizio Script:hcp_icamne;	2018-05-08-14-55-17
+		Script: hcp_icamne; terminato	2018-05-08-15-03-05
+	Esperimento: 11-Motort terminato	2018-05-08-15-03-05
+Inizio Analisi Soggetto: 116726	2018-05-08-15-03-05
+	Inizio esperimento:11-Motort	2018-05-08-15-03-06
+		Script da eseguire:hcp_icaclass_qc;; 	2018-05-08-15-03-06
+		Inizio Script:hcp_icaclass_qc;	2018-05-08-15-03-06
+		Script: hcp_icaclass_qc; terminato	2018-05-08-15-14-26
+	Esperimento: 11-Motort terminato	2018-05-08-15-14-26
+Inizio Analisi Soggetto: 116726	2018-05-08-15-14-28
+	Inizio esperimento:11-Motort	2018-05-08-15-14-28
+		Script da eseguire:hcp_icamne;; 	2018-05-08-15-14-28
+		Inizio Script:hcp_icamne;	2018-05-08-15-14-28
+		Script: hcp_icamne; terminato	2018-05-08-15-24-07
+	Esperimento: 11-Motort terminato	2018-05-08-15-24-07
+Inizio Analisi Soggetto: 133019	2018-05-08-15-24-08
+	Inizio esperimento:11-Motort	2018-05-08-15-24-08
+		Script da eseguire:hcp_icaclass_qc;; 	2018-05-08-15-24-08
+		Inizio Script:hcp_icaclass_qc;	2018-05-08-15-24-08
+		Script: hcp_icaclass_qc; terminato	2018-05-08-15-33-38
+	Esperimento: 11-Motort terminato	2018-05-08-15-33-38
+Inizio Analisi Soggetto: 133019	2018-05-08-15-33-40
+	Inizio esperimento:11-Motort	2018-05-08-15-33-40
+		Script da eseguire:hcp_icamne;; 	2018-05-08-15-33-40
+		Inizio Script:hcp_icamne;	2018-05-08-15-33-40
+		Script: hcp_icamne; terminato	2018-05-08-15-41-37
+	Esperimento: 11-Motort terminato	2018-05-08-15-41-37
+Inizio Analisi Soggetto: 105923	2018-05-09-17-49-21
+	Inizio esperimento:10-Motort	2018-05-09-17-49-21
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-09-17-49-21
+		Inizio Script:MS_hcp_icablpenv;	2018-05-09-17-49-21
+Inizio Analisi Soggetto: 105923	2018-05-09-17-53-53
+	Inizio esperimento:10-Motort	2018-05-09-17-53-53
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-09-17-53-53
+		Inizio Script:MS_hcp_icablpenv;	2018-05-09-17-53-53
+Inizio Analisi Soggetto: 105923	2018-05-09-17-58-06
+	Inizio esperimento:10-Motort	2018-05-09-17-58-06
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-09-17-58-06
+		Inizio Script:MS_hcp_icablpenv;	2018-05-09-17-58-06
+Inizio Analisi Soggetto: 105923	2018-05-10-09-41-37
+	Inizio esperimento:10-Motort	2018-05-10-09-41-38
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-10-09-41-38
+		Inizio Script:MS_hcp_icablpenv;	2018-05-10-09-41-38
+Inizio Analisi Soggetto: 105923	2018-05-10-18-52-06
+	Inizio esperimento:10-Motort	2018-05-10-18-52-06
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-10-18-52-06
+		Inizio Script:MS_hcp_icablpenv;	2018-05-10-18-52-06
+Inizio Analisi Soggetto: 105923	2018-05-10-19-22-25
+	Inizio esperimento:3-Restin	2018-05-10-19-22-25
+		Script da eseguire:hcp_icablpenv;; 	2018-05-10-19-22-25
+		Inizio Script:hcp_icablpenv;	2018-05-10-19-22-25
+		Script: hcp_icablpenv; terminato	2018-05-10-20-09-20
+	Esperimento: 3-Restin terminato	2018-05-10-20-09-20
+Inizio Analisi Soggetto: 105923	2018-05-10-20-09-21
+	Inizio esperimento:10-Motort	2018-05-10-20-09-21
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-10-20-09-21
+		Inizio Script:MS_hcp_icablpenv;	2018-05-10-20-09-21
+Inizio Analisi Soggetto: 105923	2018-05-11-08-36-06
+	Inizio esperimento:3-Restin	2018-05-11-08-36-06
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-08-36-06
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-08-36-06
+Inizio Analisi Soggetto: 105923	2018-05-11-10-03-23
+	Inizio esperimento:3-Restin	2018-05-11-10-03-23
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-10-03-23
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-10-03-23
+Inizio Analisi Soggetto: 105923	2018-05-11-10-12-41
+	Inizio esperimento:3-Restin	2018-05-11-10-12-41
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-10-12-41
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-10-12-41
+Inizio Analisi Soggetto: 105923	2018-05-11-10-20-05
+	Inizio esperimento:3-Restin	2018-05-11-10-20-05
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-10-20-05
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-10-20-05
+Inizio Analisi Soggetto: 105923	2018-05-11-10-20-59
+	Inizio esperimento:3-Restin	2018-05-11-10-20-59
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-10-20-59
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-10-20-59
+Inizio Analisi Soggetto: 105923	2018-05-11-10-21-15
+	Inizio esperimento:3-Restin	2018-05-11-10-21-15
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-10-21-15
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-10-21-15
+		Script: MS_hcp_icablpenv; terminato	2018-05-11-10-26-18
+	Esperimento: 3-Restin terminato	2018-05-11-10-26-18
+Inizio Analisi Soggetto: 105923	2018-05-11-10-30-18
+	Inizio esperimento:3-Restin	2018-05-11-10-30-18
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-10-30-18
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-10-30-18
+		Script: MS_hcp_icablpenv; terminato	2018-05-11-10-35-21
+	Esperimento: 3-Restin terminato	2018-05-11-10-35-21
+Inizio Analisi Soggetto: 105923	2018-05-11-10-35-21
+	Inizio esperimento:10-Motort	2018-05-11-10-35-21
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-10-35-21
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-10-35-21
+		Script: MS_hcp_icablpenv; terminato	2018-05-11-10-46-27
+	Esperimento: 10-Motort terminato	2018-05-11-10-46-27
+Inizio Analisi Soggetto: 105923	2018-05-11-10-46-28
+	Inizio esperimento:11-Motort	2018-05-11-10-46-28
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-10-46-28
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-10-46-28
+		Script: MS_hcp_icablpenv; terminato	2018-05-11-10-57-54
+	Esperimento: 11-Motort terminato	2018-05-11-10-57-54
+Inizio Analisi Soggetto: 105923	2018-05-11-10-57-55
+	Inizio esperimento:4-Restin	2018-05-11-10-57-55
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-10-57-55
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-10-57-55
+		Script: MS_hcp_icablpenv; terminato	2018-05-11-11-02-12
+	Esperimento: 4-Restin terminato	2018-05-11-11-02-12
+Inizio Analisi Soggetto: 105923	2018-05-11-11-02-12
+	Inizio esperimento:5-Restin	2018-05-11-11-02-12
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-11-02-12
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-11-02-12
+		Script: MS_hcp_icablpenv; terminato	2018-05-11-11-07-01
+	Esperimento: 5-Restin terminato	2018-05-11-11-07-01
+Inizio Analisi Soggetto: 105923	2018-05-11-11-23-22
+	Inizio esperimento:3-Restin	2018-05-11-11-23-22
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-11-23-22
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-11-23-22
+		Script: MS_hcp_icablpenv; terminato	2018-05-11-11-28-20
+	Esperimento: 3-Restin terminato	2018-05-11-11-28-20
+Inizio Analisi Soggetto: 105923	2018-05-11-11-28-20
+	Inizio esperimento:10-Motort	2018-05-11-11-28-21
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-11-28-21
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-11-28-21
+		Script: MS_hcp_icablpenv; terminato	2018-05-11-11-39-27
+	Esperimento: 10-Motort terminato	2018-05-11-11-39-27
+Inizio Analisi Soggetto: 105923	2018-05-11-11-39-28
+	Inizio esperimento:11-Motort	2018-05-11-11-39-28
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-11-39-28
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-11-39-28
+		Script: MS_hcp_icablpenv; terminato	2018-05-11-11-50-26
+	Esperimento: 11-Motort terminato	2018-05-11-11-50-26
+Inizio Analisi Soggetto: 105923	2018-05-11-11-50-27
+	Inizio esperimento:4-Restin	2018-05-11-11-50-27
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-11-50-27
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-11-50-27
+		Script: MS_hcp_icablpenv; terminato	2018-05-11-11-54-33
+	Esperimento: 4-Restin terminato	2018-05-11-11-54-33
+Inizio Analisi Soggetto: 105923	2018-05-11-11-54-34
+	Inizio esperimento:5-Restin	2018-05-11-11-54-34
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-11-11-54-34
+		Inizio Script:MS_hcp_icablpenv;	2018-05-11-11-54-34
+		Script: MS_hcp_icablpenv; terminato	2018-05-11-11-59-08
+	Esperimento: 5-Restin terminato	2018-05-11-11-59-08
+Inizio Analisi Soggetto: 140117	2018-05-14-18-01-46
+	Inizio esperimento:10-Motort	2018-05-14-18-01-47
+		Script da eseguire:hcp_baddata;; 	2018-05-14-18-01-47
+		Inizio Script:hcp_baddata;	2018-05-14-18-01-47
+Inizio Analisi Soggetto: 106521	2018-05-14-18-04-11
+	Inizio esperimento:3-Restin	2018-05-14-18-04-11
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-18-04-11
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-18-04-11
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-18-08-34
+	Esperimento: 3-Restin terminato	2018-05-14-18-08-34
+Inizio Analisi Soggetto: 106521	2018-05-14-18-08-34
+	Inizio esperimento:10-Motort	2018-05-14-18-08-34
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-18-08-34
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-18-08-34
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-18-17-44
+	Esperimento: 10-Motort terminato	2018-05-14-18-17-44
+Inizio Analisi Soggetto: 106521	2018-05-14-18-17-45
+	Inizio esperimento:11-Motort	2018-05-14-18-17-45
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-18-17-45
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-18-17-45
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-18-27-05
+	Esperimento: 11-Motort terminato	2018-05-14-18-27-05
+Inizio Analisi Soggetto: 106521	2018-05-14-18-27-06
+	Inizio esperimento:4-Restin	2018-05-14-18-27-06
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-18-27-06
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-18-27-06
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-18-31-06
+	Esperimento: 4-Restin terminato	2018-05-14-18-31-06
+Inizio Analisi Soggetto: 106521	2018-05-14-18-31-06
+	Inizio esperimento:5-Restin	2018-05-14-18-31-06
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-18-31-06
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-18-31-06
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-18-34-40
+	Esperimento: 5-Restin terminato	2018-05-14-18-34-40
+Inizio Analisi Soggetto: 108323	2018-05-14-18-34-40
+	Inizio esperimento:3-Restin	2018-05-14-18-34-40
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-18-34-40
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-18-34-40
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-18-39-04
+	Esperimento: 3-Restin terminato	2018-05-14-18-39-04
+Inizio Analisi Soggetto: 108323	2018-05-14-18-39-05
+	Inizio esperimento:10-Motort	2018-05-14-18-39-05
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-18-39-05
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-18-39-05
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-18-48-19
+	Esperimento: 10-Motort terminato	2018-05-14-18-48-19
+Inizio Analisi Soggetto: 108323	2018-05-14-18-48-20
+	Inizio esperimento:11-Motort	2018-05-14-18-48-20
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-18-48-20
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-18-48-20
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-18-58-13
+	Esperimento: 11-Motort terminato	2018-05-14-18-58-13
+Inizio Analisi Soggetto: 108323	2018-05-14-18-58-13
+	Inizio esperimento:4-Restin	2018-05-14-18-58-14
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-18-58-14
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-18-58-14
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-19-02-39
+	Esperimento: 4-Restin terminato	2018-05-14-19-02-39
+Inizio Analisi Soggetto: 108323	2018-05-14-19-02-39
+	Inizio esperimento:5-Restin	2018-05-14-19-02-39
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-19-02-39
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-19-02-39
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-19-06-37
+	Esperimento: 5-Restin terminato	2018-05-14-19-06-37
+Inizio Analisi Soggetto: 109123	2018-05-14-19-06-38
+	Inizio esperimento:3-Restin	2018-05-14-19-06-38
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-19-06-38
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-19-06-38
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-19-11-02
+	Esperimento: 3-Restin terminato	2018-05-14-19-11-02
+Inizio Analisi Soggetto: 109123	2018-05-14-19-11-03
+	Inizio esperimento:10-Motort	2018-05-14-19-11-03
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-19-11-03
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-19-11-03
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-19-21-43
+	Esperimento: 10-Motort terminato	2018-05-14-19-21-43
+Inizio Analisi Soggetto: 109123	2018-05-14-19-21-44
+	Inizio esperimento:11-Motort	2018-05-14-19-21-44
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-19-21-44
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-19-21-44
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-19-31-33
+	Esperimento: 11-Motort terminato	2018-05-14-19-31-33
+Inizio Analisi Soggetto: 109123	2018-05-14-19-31-34
+	Inizio esperimento:4-Restin	2018-05-14-19-31-34
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-19-31-34
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-19-31-34
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-19-34-37
+	Esperimento: 4-Restin terminato	2018-05-14-19-34-37
+Inizio Analisi Soggetto: 109123	2018-05-14-19-34-38
+	Inizio esperimento:5-Restin	2018-05-14-19-34-38
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-19-34-38
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-19-34-38
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-19-38-41
+	Esperimento: 5-Restin terminato	2018-05-14-19-38-41
+Inizio Analisi Soggetto: 113922	2018-05-14-19-38-42
+	Inizio esperimento:3-Restin	2018-05-14-19-38-42
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-19-38-42
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-19-38-42
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-19-43-18
+	Esperimento: 3-Restin terminato	2018-05-14-19-43-18
+Inizio Analisi Soggetto: 113922	2018-05-14-19-43-19
+	Inizio esperimento:10-Motort	2018-05-14-19-43-19
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-19-43-19
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-19-43-19
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-19-53-39
+	Esperimento: 10-Motort terminato	2018-05-14-19-53-39
+Inizio Analisi Soggetto: 113922	2018-05-14-19-53-40
+	Inizio esperimento:11-Motort	2018-05-14-19-53-40
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-19-53-40
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-19-53-40
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-20-03-51
+	Esperimento: 11-Motort terminato	2018-05-14-20-03-51
+Inizio Analisi Soggetto: 113922	2018-05-14-20-03-52
+	Inizio esperimento:4-Restin	2018-05-14-20-03-52
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-20-03-52
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-20-03-52
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-20-08-33
+	Esperimento: 4-Restin terminato	2018-05-14-20-08-33
+Inizio Analisi Soggetto: 113922	2018-05-14-20-08-34
+	Inizio esperimento:5-Restin	2018-05-14-20-08-34
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-20-08-34
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-20-08-34
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-20-12-57
+	Esperimento: 5-Restin terminato	2018-05-14-20-12-57
+Inizio Analisi Soggetto: 116726	2018-05-14-20-12-57
+	Inizio esperimento:3-Restin	2018-05-14-20-12-58
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-20-12-58
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-20-12-58
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-20-17-17
+	Esperimento: 3-Restin terminato	2018-05-14-20-17-17
+Inizio Analisi Soggetto: 116726	2018-05-14-20-17-18
+	Inizio esperimento:10-Motort	2018-05-14-20-17-18
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-20-17-18
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-20-17-18
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-20-27-14
+	Esperimento: 10-Motort terminato	2018-05-14-20-27-14
+Inizio Analisi Soggetto: 116726	2018-05-14-20-27-15
+	Inizio esperimento:11-Motort	2018-05-14-20-27-15
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-20-27-15
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-20-27-15
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-20-37-19
+	Esperimento: 11-Motort terminato	2018-05-14-20-37-19
+Inizio Analisi Soggetto: 116726	2018-05-14-20-37-20
+	Inizio esperimento:4-Restin	2018-05-14-20-37-20
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-20-37-20
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-20-37-20
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-20-41-42
+	Esperimento: 4-Restin terminato	2018-05-14-20-41-42
+Inizio Analisi Soggetto: 116726	2018-05-14-20-41-42
+	Inizio esperimento:5-Restin	2018-05-14-20-41-42
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-20-41-42
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-20-41-42
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-20-46-02
+	Esperimento: 5-Restin terminato	2018-05-14-20-46-02
+Inizio Analisi Soggetto: 133019	2018-05-14-20-46-03
+	Inizio esperimento:3-Restin	2018-05-14-20-46-03
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-20-46-03
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-20-46-03
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-20-51-14
+	Esperimento: 3-Restin terminato	2018-05-14-20-51-14
+Inizio Analisi Soggetto: 133019	2018-05-14-20-51-14
+	Inizio esperimento:10-Motort	2018-05-14-20-51-14
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-20-51-14
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-20-51-14
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-21-02-32
+	Esperimento: 10-Motort terminato	2018-05-14-21-02-32
+Inizio Analisi Soggetto: 133019	2018-05-14-21-02-33
+	Inizio esperimento:11-Motort	2018-05-14-21-02-33
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-21-02-33
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-21-02-33
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-21-13-18
+	Esperimento: 11-Motort terminato	2018-05-14-21-13-18
+Inizio Analisi Soggetto: 133019	2018-05-14-21-13-19
+	Inizio esperimento:4-Restin	2018-05-14-21-13-19
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-21-13-19
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-21-13-19
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-21-17-47
+	Esperimento: 4-Restin terminato	2018-05-14-21-17-47
+Inizio Analisi Soggetto: 133019	2018-05-14-21-17-47
+	Inizio esperimento:5-Restin	2018-05-14-21-17-47
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-14-21-17-47
+		Inizio Script:MS_hcp_icablpenv;	2018-05-14-21-17-47
+		Script: MS_hcp_icablpenv; terminato	2018-05-14-21-22-30
+	Esperimento: 5-Restin terminato	2018-05-14-21-22-30
+Inizio Analisi Soggetto: 106521	2018-05-15-08-50-53
+	Inizio esperimento:3-Restin	2018-05-15-08-50-53
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-15-08-50-53
+		Inizio Script:MS_hcp_icablpenv;	2018-05-15-08-50-53
+Inizio Analisi Soggetto: 106521	2018-05-15-08-51-21
+	Inizio esperimento:10-Motort	2018-05-15-08-51-21
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-15-08-51-21
+		Inizio Script:MS_hcp_icablpenv;	2018-05-15-08-51-21
+Inizio Analisi Soggetto: 106521	2018-05-15-09-02-48
+	Inizio esperimento:10-Motort	2018-05-15-09-02-48
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-15-09-02-48
+		Inizio Script:MS_hcp_icablpenv;	2018-05-15-09-02-48
+		Script: MS_hcp_icablpenv; terminato	2018-05-15-09-12-41
+	Esperimento: 10-Motort terminato	2018-05-15-09-12-41
+Inizio Analisi Soggetto: 106521	2018-05-15-09-12-42
+	Inizio esperimento:11-Motort	2018-05-15-09-12-42
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-15-09-12-42
+		Inizio Script:MS_hcp_icablpenv;	2018-05-15-09-12-42
+Inizio Analisi Soggetto: 106521	2018-05-16-13-48-09
+	Inizio esperimento:10-Motort	2018-05-16-13-48-09
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-13-48-09
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-13-48-09
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-13-57-31
+	Esperimento: 10-Motort terminato	2018-05-16-13-57-31
+Inizio Analisi Soggetto: 106521	2018-05-16-13-57-32
+	Inizio esperimento:11-Motort	2018-05-16-13-57-32
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-13-57-32
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-13-57-32
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-14-07-00
+	Esperimento: 11-Motort terminato	2018-05-16-14-07-00
+Inizio Analisi Soggetto: 108323	2018-05-16-14-07-01
+	Inizio esperimento:10-Motort	2018-05-16-14-07-01
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-14-07-01
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-14-07-01
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-14-16-44
+	Esperimento: 10-Motort terminato	2018-05-16-14-16-44
+Inizio Analisi Soggetto: 108323	2018-05-16-14-16-44
+	Inizio esperimento:11-Motort	2018-05-16-14-16-44
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-14-16-44
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-14-16-44
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-14-26-58
+	Esperimento: 11-Motort terminato	2018-05-16-14-26-58
+Inizio Analisi Soggetto: 109123	2018-05-16-14-26-59
+	Inizio esperimento:10-Motort	2018-05-16-14-26-59
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-14-26-59
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-14-26-59
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-14-37-54
+	Esperimento: 10-Motort terminato	2018-05-16-14-37-54
+Inizio Analisi Soggetto: 109123	2018-05-16-14-37-54
+	Inizio esperimento:11-Motort	2018-05-16-14-37-54
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-14-37-54
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-14-37-54
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-14-47-50
+	Esperimento: 11-Motort terminato	2018-05-16-14-47-50
+Inizio Analisi Soggetto: 113922	2018-05-16-14-47-51
+	Inizio esperimento:10-Motort	2018-05-16-14-47-51
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-14-47-51
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-14-47-51
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-14-58-25
+	Esperimento: 10-Motort terminato	2018-05-16-14-58-25
+Inizio Analisi Soggetto: 113922	2018-05-16-14-58-26
+	Inizio esperimento:11-Motort	2018-05-16-14-58-26
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-14-58-26
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-14-58-26
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-15-08-40
+	Esperimento: 11-Motort terminato	2018-05-16-15-08-40
+Inizio Analisi Soggetto: 116726	2018-05-16-15-08-41
+	Inizio esperimento:10-Motort	2018-05-16-15-08-41
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-15-08-41
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-15-08-41
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-15-18-56
+	Esperimento: 10-Motort terminato	2018-05-16-15-18-56
+Inizio Analisi Soggetto: 116726	2018-05-16-15-18-57
+	Inizio esperimento:11-Motort	2018-05-16-15-18-57
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-15-18-57
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-15-18-57
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-15-29-17
+	Esperimento: 11-Motort terminato	2018-05-16-15-29-17
+Inizio Analisi Soggetto: 133019	2018-05-16-15-29-18
+	Inizio esperimento:10-Motort	2018-05-16-15-29-18
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-15-29-18
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-15-29-18
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-15-40-56
+	Esperimento: 10-Motort terminato	2018-05-16-15-40-56
+Inizio Analisi Soggetto: 133019	2018-05-16-15-40-57
+	Inizio esperimento:11-Motort	2018-05-16-15-40-57
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-15-40-57
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-15-40-57
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-15-52-08
+	Esperimento: 11-Motort terminato	2018-05-16-15-52-08
+Inizio Analisi Soggetto: 105923	2018-05-16-16-08-44
+	Inizio esperimento:10-Motort	2018-05-16-16-08-44
+		Script da eseguire:hcp_icablpcorr;; 	2018-05-16-16-08-44
+		Inizio Script:hcp_icablpcorr;	2018-05-16-16-08-44
+Inizio Analisi Soggetto: 105923	2018-05-16-16-08-59
+	Inizio esperimento:10-Motort	2018-05-16-16-08-59
+		Script da eseguire:hcp_icablpcorr;; 	2018-05-16-16-08-59
+		Inizio Script:hcp_icablpcorr;	2018-05-16-16-08-59
+Inizio Analisi Soggetto: 105923	2018-05-16-16-09-38
+	Inizio esperimento:10-Motort	2018-05-16-16-09-38
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-16-09-38
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-16-09-38
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-16-21-33
+	Esperimento: 10-Motort terminato	2018-05-16-16-21-33
+Inizio Analisi Soggetto: 105923	2018-05-16-16-21-34
+	Inizio esperimento:11-Motort	2018-05-16-16-21-34
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-16-16-21-34
+		Inizio Script:MS_hcp_icablpenv;	2018-05-16-16-21-34
+		Script: MS_hcp_icablpenv; terminato	2018-05-16-16-33-45
+	Esperimento: 11-Motort terminato	2018-05-16-16-33-45
+Inizio Analisi Soggetto: 105923	2018-05-16-16-33-46
+	Inizio esperimento:3-Restin	2018-05-16-16-33-46
+		Script da eseguire:hcp_icablpcorr;; 	2018-05-16-16-33-46
+		Inizio Script:hcp_icablpcorr;	2018-05-16-16-33-46
+Inizio Analisi Soggetto: 105923	2018-05-16-16-46-26
+	Inizio esperimento:3-Restin	2018-05-16-16-46-26
+		Script da eseguire:hcp_icablpcorr;; 	2018-05-16-16-46-26
+		Inizio Script:hcp_icablpcorr;	2018-05-16-16-46-26
+Inizio Analisi Soggetto: 105923	2018-05-16-17-15-50
+	Inizio esperimento:3-Restin	2018-05-16-17-15-50
+		Script da eseguire:hcp_icablpcorr;; 	2018-05-16-17-15-50
+		Inizio Script:hcp_icablpcorr;	2018-05-16-17-15-50
+Inizio Analisi Soggetto: 105923	2018-05-16-17-18-21
+	Inizio esperimento:3-Restin	2018-05-16-17-18-21
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-05-16-17-18-21
+		Inizio Script:MS_hcp_icablpcorr;	2018-05-16-17-18-21
+Inizio Analisi Soggetto: 105923	2018-05-16-17-22-15
+	Inizio esperimento:3-Restin	2018-05-16-17-22-15
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-05-16-17-22-15
+		Inizio Script:MS_hcp_icablpcorr;	2018-05-16-17-22-15
+Inizio Analisi Soggetto: 105923	2018-05-16-17-24-49
+	Inizio esperimento:3-Restin	2018-05-16-17-24-49
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-05-16-17-24-49
+		Inizio Script:MS_hcp_icablpcorr;	2018-05-16-17-24-49
+Inizio Analisi Soggetto: 105923	2018-05-16-17-27-57
+	Inizio esperimento:3-Restin	2018-05-16-17-27-57
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-05-16-17-27-57
+		Inizio Script:MS_hcp_icablpcorr;	2018-05-16-17-27-57
+		Script: MS_hcp_icablpcorr; terminato	2018-05-16-17-30-39
+	Esperimento: 3-Restin terminato	2018-05-16-17-30-39
+Inizio Analisi Soggetto: 105923	2018-05-23-13-41-08
+	Inizio esperimento:10-Restin	2018-05-23-13-41-08
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-23-13-41-08
+		Inizio Script:MS_hcp_icablpenv;	2018-05-23-13-41-08
+Inizio Analisi Soggetto: 105923	2018-05-23-13-41-30
+	Inizio esperimento:10-Motort	2018-05-23-13-41-30
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-23-13-41-30
+		Inizio Script:MS_hcp_icablpenv;	2018-05-23-13-41-30
+Inizio Analisi Soggetto: 105923	2018-05-23-14-06-31
+	Inizio esperimento:10-Motort	2018-05-23-14-06-31
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-23-14-06-31
+		Inizio Script:MS_hcp_icablpenv;	2018-05-23-14-06-31
+Inizio Analisi Soggetto: 105923	2018-05-23-14-08-18
+	Inizio esperimento:10-Motort	2018-05-23-14-08-18
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-23-14-08-18
+		Inizio Script:MS_hcp_icablpenv;	2018-05-23-14-08-18
+		Script: MS_hcp_icablpenv; terminato	2018-05-23-14-19-45
+	Esperimento: 10-Motort terminato	2018-05-23-14-19-45
+Inizio Analisi Soggetto: 105923	2018-05-25-10-10-44
+	Inizio esperimento:10-Motort	2018-05-25-10-10-44
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-25-10-10-44
+		Inizio Script:MS_hcp_icablpenv;	2018-05-25-10-10-44
+		Script: MS_hcp_icablpenv; terminato	2018-05-25-11-10-42
+	Esperimento: 10-Motort terminato	2018-05-25-11-10-43
+Inizio Analisi Soggetto: 105923	2018-05-25-11-10-45
+	Inizio esperimento:11-Motort	2018-05-25-11-10-45
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-25-11-10-45
+		Inizio Script:MS_hcp_icablpenv;	2018-05-25-11-10-45
+Inizio Analisi Soggetto: 105923	2018-05-29-11-58-31
+	Inizio esperimento:10-Motort	2018-05-29-11-58-32
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-29-11-58-32
+		Inizio Script:MS_hcp_icablpenv;	2018-05-29-11-58-32
+		Script: MS_hcp_icablpenv; terminato	2018-05-29-12-10-34
+	Esperimento: 10-Motort terminato	2018-05-29-12-10-34
+Inizio Analisi Soggetto: 105923	2018-05-29-12-10-35
+	Inizio esperimento:11-Motort	2018-05-29-12-10-35
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-05-29-12-10-35
+		Inizio Script:MS_hcp_icablpenv;	2018-05-29-12-10-35
+Inizio Analisi Soggetto: 105923	2018-05-29-12-14-26
+	Inizio esperimento:3-Restin	2018-05-29-12-14-26
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-05-29-12-14-26
+		Inizio Script:MS_hcp_icablpcorr;	2018-05-29-12-14-26
+		Script: MS_hcp_icablpcorr; terminato	2018-05-29-12-17-31
+	Esperimento: 3-Restin terminato	2018-05-29-12-17-31
+Inizio Analisi Soggetto: 105923	2018-05-29-13-28-03
+	Inizio esperimento:3-Restin	2018-05-29-13-28-03
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-05-29-13-28-03
+		Inizio Script:MS_hcp_icablpcorr;	2018-05-29-13-28-03
+Inizio Analisi Soggetto: 105923	2018-05-29-13-29-08
+	Inizio esperimento:3-Restin	2018-05-29-13-29-08
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-05-29-13-29-08
+		Inizio Script:MS_hcp_icablpcorr;	2018-05-29-13-29-08
+		Script: MS_hcp_icablpcorr; terminato	2018-05-29-13-31-19
+	Esperimento: 3-Restin terminato	2018-05-29-13-31-19
+Inizio Analisi Soggetto: 105923	2018-05-29-18-12-35
+	Inizio esperimento:3-Restin	2018-05-29-18-12-35
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-05-29-18-12-35
+		Inizio Script:MS_hcp_icablpcorr;	2018-05-29-18-12-35
+		Script: MS_hcp_icablpcorr; terminato	2018-05-29-18-15-20
+	Esperimento: 3-Restin terminato	2018-05-29-18-15-20
+Inizio Analisi Soggetto: 105923	2018-06-01-14-44-31
+	Inizio esperimento:3-Restin	2018-06-01-14-44-32
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-01-14-44-32
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-01-14-44-32
+Inizio Analisi Soggetto: 105923	2018-06-01-14-45-48
+	Inizio esperimento:3-Restin	2018-06-01-14-45-48
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-01-14-45-48
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-01-14-45-48
+		Script: MS_hcp_icablpcorr; terminato	2018-06-01-15-15-30
+	Esperimento: 3-Restin terminato	2018-06-01-15-15-30
+Inizio Analisi Soggetto: 105923	2018-06-07-16-31-55
+	Inizio esperimento:3-Restin	2018-06-07-16-31-55
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-07-16-31-55
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-07-16-31-55
+		Script: MS_hcp_icablpcorr; terminato	2018-06-07-18-18-41
+	Esperimento: 3-Restin terminato	2018-06-07-18-18-41
+Inizio Analisi Soggetto: 105923	2018-06-09-13-09-06
+	Inizio esperimento:3-Restin	2018-06-09-13-09-06
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-09-13-09-06
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-09-13-09-06
+		Script: MS_hcp_icablpcorr; terminato	2018-06-09-13-11-19
+	Esperimento: 3-Restin terminato	2018-06-09-13-11-19
+Inizio Analisi Soggetto: 105923	2018-06-15-17-02-56
+	Inizio esperimento:3-Restin	2018-06-15-17-02-56
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-15-17-02-56
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-15-17-02-56
+Inizio Analisi Soggetto: 105923	2018-06-15-17-47-07
+	Inizio esperimento:3-Restin	2018-06-15-17-47-07
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-15-17-47-07
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-15-17-47-07
+Inizio Analisi Soggetto: 105923	2018-06-17-09-23-52
+	Inizio esperimento:3-Restin	2018-06-17-09-23-52
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-17-09-23-52
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-17-09-23-52
+Inizio Analisi Soggetto: 105923	2018-06-17-09-48-28
+	Inizio esperimento:3-Restin	2018-06-17-09-48-28
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-17-09-48-28
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-17-09-48-28
+Inizio Analisi Soggetto: 105923	2018-06-17-09-52-06
+	Inizio esperimento:3-Restin	2018-06-17-09-52-06
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-17-09-52-06
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-17-09-52-06
+Inizio Analisi Soggetto: 105923	2018-06-17-10-01-54
+	Inizio esperimento:3-Restin	2018-06-17-10-01-54
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-17-10-01-54
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-17-10-01-54
+Inizio Analisi Soggetto: 105923	2018-06-17-10-05-38
+	Inizio esperimento:3-Restin	2018-06-17-10-05-38
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-17-10-05-38
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-17-10-05-38
+Inizio Analisi Soggetto: 105923	2018-06-17-10-12-25
+	Inizio esperimento:3-Restin	2018-06-17-10-12-25
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-17-10-12-25
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-17-10-12-25
+Inizio Analisi Soggetto: 105923	2018-06-17-10-15-01
+	Inizio esperimento:3-Restin	2018-06-17-10-15-01
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-17-10-15-01
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-17-10-15-01
+Inizio Analisi Soggetto: 105923	2018-06-17-10-31-58
+	Inizio esperimento:3-Restin	2018-06-17-10-31-58
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-17-10-31-58
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-17-10-31-58
+		Script: MS_hcp_icablpdyn; terminato	2018-06-17-11-29-49
+	Esperimento: 3-Restin terminato	2018-06-17-11-29-49
+Inizio Analisi Soggetto: 105923	2018-06-18-10-45-55
+	Inizio esperimento:3-Restin	2018-06-18-10-45-55
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-18-10-45-55
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-18-10-45-55
+Inizio Analisi Soggetto: 105923	2018-06-18-11-00-18
+	Inizio esperimento:3-Restin	2018-06-18-11-00-18
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-18-11-00-18
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-18-11-00-18
+Inizio Analisi Soggetto: 105923	2018-06-18-11-02-37
+	Inizio esperimento:3-Restin	2018-06-18-11-02-37
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-18-11-02-37
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-18-11-02-37
+Inizio Analisi Soggetto: 105923	2018-06-18-11-04-36
+	Inizio esperimento:3-Restin	2018-06-18-11-04-36
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-18-11-04-36
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-18-11-04-36
+Inizio Analisi Soggetto: 105923	2018-06-18-11-05-07
+	Inizio esperimento:3-Restin	2018-06-18-11-05-07
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-18-11-05-07
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-18-11-05-07
+Inizio Analisi Soggetto: 105923	2018-06-18-11-07-28
+	Inizio esperimento:3-Restin	2018-06-18-11-07-28
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-18-11-07-28
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-18-11-07-28
+Inizio Analisi Soggetto: 105923	2018-06-18-11-09-32
+	Inizio esperimento:3-Restin	2018-06-18-11-09-32
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-18-11-09-32
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-18-11-09-32
+		Script: MS_hcp_icablpcorr; terminato	2018-06-18-11-14-16
+	Esperimento: 3-Restin terminato	2018-06-18-11-14-16
+Inizio Analisi Soggetto: 105923	2018-06-18-11-14-17
+	Inizio esperimento:3-Restin	2018-06-18-11-14-17
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-11-14-17
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-11-14-17
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-12-14-29
+	Esperimento: 3-Restin terminato	2018-06-18-12-14-29
+Inizio Analisi Soggetto: 105923	2018-06-18-13-41-07
+	Inizio esperimento:3-Restin	2018-06-18-13-41-07
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-18-13-41-07
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-18-13-41-07
+		Script: MS_hcp_icablpcorr; terminato	2018-06-18-13-43-16
+	Esperimento: 3-Restin terminato	2018-06-18-13-43-16
+Inizio Analisi Soggetto: 105923	2018-06-18-13-43-18
+	Inizio esperimento:3-Restin	2018-06-18-13-43-18
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-13-43-18
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-13-43-18
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-14-41-18
+	Esperimento: 3-Restin terminato	2018-06-18-14-41-18
+Inizio Analisi Soggetto: 105923	2018-06-18-14-41-19
+	Inizio esperimento:4-Restin	2018-06-18-14-41-19
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-14-41-19
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-14-41-19
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-15-36-50
+	Esperimento: 4-Restin terminato	2018-06-18-15-36-50
+Inizio Analisi Soggetto: 105923	2018-06-18-15-36-51
+	Inizio esperimento:5-Restin	2018-06-18-15-36-51
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-15-36-51
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-15-36-51
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-16-35-09
+	Esperimento: 5-Restin terminato	2018-06-18-16-35-09
+Inizio Analisi Soggetto: 106521	2018-06-18-16-35-10
+	Inizio esperimento:3-Restin	2018-06-18-16-35-10
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-18-16-35-10
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-18-16-35-10
+		Script: MS_hcp_icablpcorr; terminato	2018-06-18-16-37-19
+	Esperimento: 3-Restin terminato	2018-06-18-16-37-19
+Inizio Analisi Soggetto: 106521	2018-06-18-16-37-20
+	Inizio esperimento:3-Restin	2018-06-18-16-37-20
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-16-37-20
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-16-37-20
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-17-35-40
+	Esperimento: 3-Restin terminato	2018-06-18-17-35-40
+Inizio Analisi Soggetto: 106521	2018-06-18-17-35-41
+	Inizio esperimento:4-Restin	2018-06-18-17-35-41
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-17-35-41
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-17-35-41
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-18-30-41
+	Esperimento: 4-Restin terminato	2018-06-18-18-30-41
+Inizio Analisi Soggetto: 106521	2018-06-18-18-30-42
+	Inizio esperimento:5-Restin	2018-06-18-18-30-42
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-18-30-42
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-18-30-42
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-19-16-21
+	Esperimento: 5-Restin terminato	2018-06-18-19-16-21
+Inizio Analisi Soggetto: 108323	2018-06-18-19-16-22
+	Inizio esperimento:3-Restin	2018-06-18-19-16-22
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-18-19-16-22
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-18-19-16-22
+		Script: MS_hcp_icablpcorr; terminato	2018-06-18-19-18-35
+	Esperimento: 3-Restin terminato	2018-06-18-19-18-35
+Inizio Analisi Soggetto: 108323	2018-06-18-19-18-37
+	Inizio esperimento:3-Restin	2018-06-18-19-18-37
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-19-18-37
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-19-18-37
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-20-16-00
+	Esperimento: 3-Restin terminato	2018-06-18-20-16-00
+Inizio Analisi Soggetto: 108323	2018-06-18-20-16-01
+	Inizio esperimento:4-Restin	2018-06-18-20-16-01
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-20-16-01
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-20-16-01
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-21-14-23
+	Esperimento: 4-Restin terminato	2018-06-18-21-14-23
+Inizio Analisi Soggetto: 108323	2018-06-18-21-14-24
+	Inizio esperimento:5-Restin	2018-06-18-21-14-24
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-21-14-24
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-21-14-24
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-22-07-25
+	Esperimento: 5-Restin terminato	2018-06-18-22-07-25
+Inizio Analisi Soggetto: 109123	2018-06-18-22-07-26
+	Inizio esperimento:3-Restin	2018-06-18-22-07-26
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-18-22-07-26
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-18-22-07-26
+		Script: MS_hcp_icablpcorr; terminato	2018-06-18-22-09-45
+	Esperimento: 3-Restin terminato	2018-06-18-22-09-45
+Inizio Analisi Soggetto: 109123	2018-06-18-22-09-46
+	Inizio esperimento:3-Restin	2018-06-18-22-09-46
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-22-09-46
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-22-09-46
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-23-06-53
+	Esperimento: 3-Restin terminato	2018-06-18-23-06-53
+Inizio Analisi Soggetto: 109123	2018-06-18-23-06-54
+	Inizio esperimento:4-Restin	2018-06-18-23-06-54
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-23-06-54
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-23-06-54
+		Script: MS_hcp_icablpdyn; terminato	2018-06-18-23-45-57
+	Esperimento: 4-Restin terminato	2018-06-18-23-45-57
+Inizio Analisi Soggetto: 109123	2018-06-18-23-45-58
+	Inizio esperimento:5-Restin	2018-06-18-23-45-58
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-18-23-45-58
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-18-23-45-58
+		Script: MS_hcp_icablpdyn; terminato	2018-06-19-00-38-29
+	Esperimento: 5-Restin terminato	2018-06-19-00-38-29
+Inizio Analisi Soggetto: 113922	2018-06-19-00-38-30
+	Inizio esperimento:3-Restin	2018-06-19-00-38-31
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-19-00-38-31
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-19-00-38-31
+		Script: MS_hcp_icablpcorr; terminato	2018-06-19-00-40-50
+	Esperimento: 3-Restin terminato	2018-06-19-00-40-50
+Inizio Analisi Soggetto: 113922	2018-06-19-00-40-51
+	Inizio esperimento:3-Restin	2018-06-19-00-40-51
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-19-00-40-51
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-19-00-40-51
+		Script: MS_hcp_icablpdyn; terminato	2018-06-19-01-39-43
+	Esperimento: 3-Restin terminato	2018-06-19-01-39-43
+Inizio Analisi Soggetto: 113922	2018-06-19-01-39-44
+	Inizio esperimento:4-Restin	2018-06-19-01-39-44
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-19-01-39-44
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-19-01-39-44
+		Script: MS_hcp_icablpdyn; terminato	2018-06-19-02-38-40
+	Esperimento: 4-Restin terminato	2018-06-19-02-38-40
+Inizio Analisi Soggetto: 113922	2018-06-19-02-38-41
+	Inizio esperimento:5-Restin	2018-06-19-02-38-41
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-19-02-38-41
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-19-02-38-41
+		Script: MS_hcp_icablpdyn; terminato	2018-06-19-03-36-38
+	Esperimento: 5-Restin terminato	2018-06-19-03-36-38
+Inizio Analisi Soggetto: 116726	2018-06-19-03-36-39
+	Inizio esperimento:3-Restin	2018-06-19-03-36-39
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-19-03-36-39
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-19-03-36-39
+		Script: MS_hcp_icablpcorr; terminato	2018-06-19-03-38-57
+	Esperimento: 3-Restin terminato	2018-06-19-03-38-57
+Inizio Analisi Soggetto: 116726	2018-06-19-03-38-58
+	Inizio esperimento:3-Restin	2018-06-19-03-38-58
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-19-03-38-58
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-19-03-38-58
+		Script: MS_hcp_icablpdyn; terminato	2018-06-19-04-37-54
+	Esperimento: 3-Restin terminato	2018-06-19-04-37-54
+Inizio Analisi Soggetto: 116726	2018-06-19-04-37-55
+	Inizio esperimento:4-Restin	2018-06-19-04-37-55
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-19-04-37-55
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-19-04-37-55
+		Script: MS_hcp_icablpdyn; terminato	2018-06-19-05-35-50
+	Esperimento: 4-Restin terminato	2018-06-19-05-35-50
+Inizio Analisi Soggetto: 116726	2018-06-19-05-35-51
+	Inizio esperimento:5-Restin	2018-06-19-05-35-51
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-19-05-35-51
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-19-05-35-51
+		Script: MS_hcp_icablpdyn; terminato	2018-06-19-06-32-40
+	Esperimento: 5-Restin terminato	2018-06-19-06-32-40
+Inizio Analisi Soggetto: 133019	2018-06-19-06-32-41
+	Inizio esperimento:3-Restin	2018-06-19-06-32-41
+		Script da eseguire:MS_hcp_icablpcorr;; 	2018-06-19-06-32-41
+		Inizio Script:MS_hcp_icablpcorr;	2018-06-19-06-32-41
+		Script: MS_hcp_icablpcorr; terminato	2018-06-19-06-35-00
+	Esperimento: 3-Restin terminato	2018-06-19-06-35-00
+Inizio Analisi Soggetto: 133019	2018-06-19-06-35-01
+	Inizio esperimento:3-Restin	2018-06-19-06-35-01
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-19-06-35-01
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-19-06-35-01
+		Script: MS_hcp_icablpdyn; terminato	2018-06-19-07-33-24
+	Esperimento: 3-Restin terminato	2018-06-19-07-33-24
+Inizio Analisi Soggetto: 133019	2018-06-19-07-33-25
+	Inizio esperimento:4-Restin	2018-06-19-07-33-25
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-19-07-33-25
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-19-07-33-25
+		Script: MS_hcp_icablpdyn; terminato	2018-06-19-08-28-48
+	Esperimento: 4-Restin terminato	2018-06-19-08-28-48
+Inizio Analisi Soggetto: 133019	2018-06-19-08-28-49
+	Inizio esperimento:5-Restin	2018-06-19-08-28-49
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-06-19-08-28-49
+		Inizio Script:MS_hcp_icablpdyn;	2018-06-19-08-28-49
+		Script: MS_hcp_icablpdyn; terminato	2018-06-19-09-27-02
+	Esperimento: 5-Restin terminato	2018-06-19-09-27-02
+Inizio Analisi Soggetto: 105923	2018-07-02-14-38-20
+	Inizio esperimento:10-Motort	2018-07-02-14-38-20
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-07-02-14-38-20
+		Inizio Script:MS_hcp_icablpenv;	2018-07-02-14-38-20
+Inizio Analisi Soggetto: 105923	2018-07-02-15-08-45
+	Inizio esperimento:10-Motort	2018-07-02-15-08-45
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-07-02-15-08-45
+		Inizio Script:MS_hcp_icablpenv;	2018-07-02-15-08-45
+Inizio Analisi Soggetto: 105923	2018-07-02-15-37-34
+	Inizio esperimento:10-Motort	2018-07-02-15-37-34
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-07-02-15-37-34
+		Inizio Script:MS_hcp_icablpenv;	2018-07-02-15-37-34
+Inizio Analisi Soggetto: 105923	2018-07-02-16-06-45
+	Inizio esperimento:10-Motort	2018-07-02-16-06-45
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-07-02-16-06-45
+		Inizio Script:MS_hcp_icablpenv;	2018-07-02-16-06-45
+		Script: MS_hcp_icablpenv; terminato	2018-07-02-16-25-00
+	Esperimento: 10-Motort terminato	2018-07-02-16-25-00
+Inizio Analisi Soggetto: 105923	2018-07-02-16-54-50
+	Inizio esperimento:10-Motort	2018-07-02-16-54-51
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-07-02-16-54-51
+		Inizio Script:MS_hcp_icablpenv;	2018-07-02-16-54-51
+		Script: MS_hcp_icablpenv; terminato	2018-07-02-17-11-25
+	Esperimento: 10-Motort terminato	2018-07-02-17-11-25
+Inizio Analisi Soggetto: 105923	2018-07-02-17-24-50
+	Inizio esperimento:10-Motort	2018-07-02-17-24-50
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-07-02-17-24-50
+		Inizio Script:MS_hcp_icablpenv;	2018-07-02-17-24-50
+Inizio Analisi Soggetto: 105923	2018-07-02-17-26-02
+	Inizio esperimento:10-Motort	2018-07-02-17-26-02
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-07-02-17-26-02
+		Inizio Script:MS_hcp_icablpenv;	2018-07-02-17-26-02
+		Script: MS_hcp_icablpenv; terminato	2018-07-02-17-42-45
+	Esperimento: 10-Motort terminato	2018-07-02-17-42-45
+Inizio Analisi Soggetto: 105923	2018-07-02-21-45-49
+	Inizio esperimento:10-Motort	2018-07-02-21-45-49
+		Script da eseguire:MS_hcp_icablpenv;; 	2018-07-02-21-45-49
+		Inizio Script:MS_hcp_icablpenv;	2018-07-02-21-45-49
+		Script: MS_hcp_icablpenv; terminato	2018-07-02-22-02-26
+	Esperimento: 10-Motort terminato	2018-07-02-22-02-26
+Inizio Analisi Soggetto: 105923	2018-07-02-22-08-14
+	Inizio esperimento:10-Motort	2018-07-02-22-08-14
+		Script da eseguire:MS_hcp_icablpdyn;; 	2018-07-02-22-08-14
+		Inizio Script:MS_hcp_icablpdyn;	2018-07-02-22-08-14
+Inizio Analisi Soggetto: 105923	2018-07-02-22-08-45
+	Inizio esperimento:10-Motort	2018-07-02-22-08-45
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-02-22-08-45
+		Inizio Script:MS_hcp_icablpdyn	2018-07-02-22-08-45
+Inizio Analisi Soggetto: 105923	2018-07-02-22-10-50
+	Inizio esperimento:10-Motort	2018-07-02-22-10-50
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-02-22-10-50
+		Inizio Script:MS_hcp_icablpdyn	2018-07-02-22-10-50
+Inizio Analisi Soggetto: 105923	2018-07-02-22-16-52
+	Inizio esperimento:10-Motort	2018-07-02-22-16-52
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-02-22-16-52
+		Inizio Script:MS_hcp_icablpdyn	2018-07-02-22-16-52
+		Script: MS_hcp_icablpdyn terminato	2018-07-02-22-17-13
+	Esperimento: 10-Motort terminato	2018-07-02-22-17-13
+Inizio Analisi Soggetto: 105923	2018-07-02-22-20-34
+	Inizio esperimento:10-Motort	2018-07-02-22-20-34
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-02-22-20-34
+		Inizio Script:MS_hcp_icablpdyn	2018-07-02-22-20-34
+Inizio Analisi Soggetto: 105923	2018-07-02-22-21-51
+	Inizio esperimento:10-Motort	2018-07-02-22-21-51
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-02-22-21-51
+		Inizio Script:MS_hcp_icablpdyn	2018-07-02-22-21-51
+		Script: MS_hcp_icablpdyn terminato	2018-07-02-22-22-13
+	Esperimento: 10-Motort terminato	2018-07-02-22-22-13
+Inizio Analisi Soggetto: 105923	2018-07-02-22-22-56
+	Inizio esperimento:10-Motort	2018-07-02-22-22-56
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-02-22-22-56
+		Inizio Script:MS_hcp_icablpdyn	2018-07-02-22-22-56
+		Script: MS_hcp_icablpdyn terminato	2018-07-02-22-23-56
+	Esperimento: 10-Motort terminato	2018-07-02-22-23-56
+Inizio Analisi Soggetto: 105923	2018-07-02-22-24-00
+	Inizio esperimento:10-Motort	2018-07-02-22-24-00
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-02-22-24-00
+		Inizio Script:MS_hcp_icablpdyn	2018-07-02-22-24-00
+Inizio Analisi Soggetto: 105923	2018-07-02-22-29-28
+	Inizio esperimento:10-Motort	2018-07-02-22-29-28
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-02-22-29-28
+		Inizio Script:MS_hcp_icablpdyn	2018-07-02-22-29-28
+Inizio Analisi Soggetto: 105923	2018-07-02-22-31-56
+	Inizio esperimento:10-Motort	2018-07-02-22-31-56
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-02-22-31-56
+		Inizio Script:MS_hcp_icablpdyn	2018-07-02-22-31-56
+Inizio Analisi Soggetto: 105923	2018-07-02-22-34-48
+	Inizio esperimento:10-Motort	2018-07-02-22-34-48
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-02-22-34-48
+		Inizio Script:MS_hcp_icablpdyn	2018-07-02-22-34-48
+Inizio Analisi Soggetto: 105923	2018-07-02-22-45-40
+	Inizio esperimento:10-Motort	2018-07-02-22-45-40
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-02-22-45-40
+		Inizio Script:MS_hcp_icablpenv	2018-07-02-22-45-40
+		Script: MS_hcp_icablpenv terminato	2018-07-02-23-02-05
+	Esperimento: 10-Motort terminato	2018-07-02-23-02-05
+Inizio Analisi Soggetto: 105923	2018-07-02-23-02-06
+	Inizio esperimento:10-Motort	2018-07-02-23-02-06
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-02-23-02-06
+		Inizio Script:MS_hcp_icablpdyn	2018-07-02-23-02-06
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-00-00-19
+	Esperimento: 10-Motort terminato	2018-07-03-00-00-19
+Inizio Analisi Soggetto: 105923	2018-07-03-00-00-20
+	Inizio esperimento:11-Motort	2018-07-03-00-00-20
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-00-00-20
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-00-00-20
+		Script: MS_hcp_icablpenv terminato	2018-07-03-00-16-15
+	Esperimento: 11-Motort terminato	2018-07-03-00-16-15
+Inizio Analisi Soggetto: 105923	2018-07-03-00-16-16
+	Inizio esperimento:11-Motort	2018-07-03-00-16-16
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-00-16-16
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-00-16-16
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-01-29-59
+	Esperimento: 11-Motort terminato	2018-07-03-01-29-59
+Inizio Analisi Soggetto: 106521	2018-07-03-01-30-00
+	Inizio esperimento:10-Motort	2018-07-03-01-30-00
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-01-30-00
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-01-30-00
+		Script: MS_hcp_icablpenv terminato	2018-07-03-01-43-01
+	Esperimento: 10-Motort terminato	2018-07-03-01-43-01
+Inizio Analisi Soggetto: 106521	2018-07-03-01-43-02
+	Inizio esperimento:10-Motort	2018-07-03-01-43-02
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-01-43-02
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-01-43-02
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-02-31-03
+	Esperimento: 10-Motort terminato	2018-07-03-02-31-03
+Inizio Analisi Soggetto: 106521	2018-07-03-02-31-04
+	Inizio esperimento:11-Motort	2018-07-03-02-31-04
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-02-31-04
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-02-31-04
+		Script: MS_hcp_icablpenv terminato	2018-07-03-02-44-30
+	Esperimento: 11-Motort terminato	2018-07-03-02-44-30
+Inizio Analisi Soggetto: 106521	2018-07-03-02-44-31
+	Inizio esperimento:11-Motort	2018-07-03-02-44-31
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-02-44-31
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-02-44-31
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-03-27-58
+	Esperimento: 11-Motort terminato	2018-07-03-03-27-58
+Inizio Analisi Soggetto: 108323	2018-07-03-03-27-59
+	Inizio esperimento:10-Motort	2018-07-03-03-27-59
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-03-27-59
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-03-27-59
+		Script: MS_hcp_icablpenv terminato	2018-07-03-03-41-04
+	Esperimento: 10-Motort terminato	2018-07-03-03-41-04
+Inizio Analisi Soggetto: 108323	2018-07-03-03-41-05
+	Inizio esperimento:10-Motort	2018-07-03-03-41-05
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-03-41-05
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-03-41-05
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-04-39-30
+	Esperimento: 10-Motort terminato	2018-07-03-04-39-30
+Inizio Analisi Soggetto: 108323	2018-07-03-04-39-31
+	Inizio esperimento:11-Motort	2018-07-03-04-39-31
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-04-39-31
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-04-39-31
+		Script: MS_hcp_icablpenv terminato	2018-07-03-04-53-07
+	Esperimento: 11-Motort terminato	2018-07-03-04-53-07
+Inizio Analisi Soggetto: 108323	2018-07-03-04-53-08
+	Inizio esperimento:11-Motort	2018-07-03-04-53-08
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-04-53-08
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-04-53-08
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-05-58-06
+	Esperimento: 11-Motort terminato	2018-07-03-05-58-06
+Inizio Analisi Soggetto: 109123	2018-07-03-05-58-07
+	Inizio esperimento:10-Motort	2018-07-03-05-58-07
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-05-58-07
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-05-58-07
+		Script: MS_hcp_icablpenv terminato	2018-07-03-06-13-41
+	Esperimento: 10-Motort terminato	2018-07-03-06-13-41
+Inizio Analisi Soggetto: 109123	2018-07-03-06-13-42
+	Inizio esperimento:10-Motort	2018-07-03-06-13-42
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-06-13-42
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-06-13-42
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-07-27-31
+	Esperimento: 10-Motort terminato	2018-07-03-07-27-31
+Inizio Analisi Soggetto: 109123	2018-07-03-07-27-33
+	Inizio esperimento:11-Motort	2018-07-03-07-27-33
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-07-27-33
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-07-27-33
+		Script: MS_hcp_icablpenv terminato	2018-07-03-07-41-26
+	Esperimento: 11-Motort terminato	2018-07-03-07-41-26
+Inizio Analisi Soggetto: 109123	2018-07-03-07-41-27
+	Inizio esperimento:11-Motort	2018-07-03-07-41-27
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-07-41-27
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-07-41-27
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-08-16-37
+	Esperimento: 11-Motort terminato	2018-07-03-08-16-37
+Inizio Analisi Soggetto: 113922	2018-07-03-08-16-38
+	Inizio esperimento:10-Motort	2018-07-03-08-16-38
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-08-16-38
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-08-16-38
+		Script: MS_hcp_icablpenv terminato	2018-07-03-08-32-41
+	Esperimento: 10-Motort terminato	2018-07-03-08-32-41
+Inizio Analisi Soggetto: 113922	2018-07-03-08-32-42
+	Inizio esperimento:10-Motort	2018-07-03-08-32-42
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-08-32-42
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-08-32-42
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-09-27-47
+	Esperimento: 10-Motort terminato	2018-07-03-09-27-47
+Inizio Analisi Soggetto: 113922	2018-07-03-09-27-48
+	Inizio esperimento:11-Motort	2018-07-03-09-27-48
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-09-27-48
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-09-27-48
+		Script: MS_hcp_icablpenv terminato	2018-07-03-09-42-58
+	Esperimento: 11-Motort terminato	2018-07-03-09-42-58
+Inizio Analisi Soggetto: 113922	2018-07-03-09-42-59
+	Inizio esperimento:11-Motort	2018-07-03-09-42-59
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-09-42-59
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-09-42-59
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-10-58-31
+	Esperimento: 11-Motort terminato	2018-07-03-10-58-31
+Inizio Analisi Soggetto: 116726	2018-07-03-10-58-32
+	Inizio esperimento:10-Motort	2018-07-03-10-58-32
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-10-58-32
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-10-58-32
+		Script: MS_hcp_icablpenv terminato	2018-07-03-11-13-14
+	Esperimento: 10-Motort terminato	2018-07-03-11-13-14
+Inizio Analisi Soggetto: 116726	2018-07-03-11-13-15
+	Inizio esperimento:10-Motort	2018-07-03-11-13-15
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-11-13-15
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-11-13-15
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-12-11-07
+	Esperimento: 10-Motort terminato	2018-07-03-12-11-07
+Inizio Analisi Soggetto: 116726	2018-07-03-12-11-09
+	Inizio esperimento:11-Motort	2018-07-03-12-11-09
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-12-11-09
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-12-11-09
+		Script: MS_hcp_icablpenv terminato	2018-07-03-12-25-50
+	Esperimento: 11-Motort terminato	2018-07-03-12-25-50
+Inizio Analisi Soggetto: 116726	2018-07-03-12-25-51
+	Inizio esperimento:11-Motort	2018-07-03-12-25-51
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-12-25-51
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-12-25-51
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-13-25-01
+	Esperimento: 11-Motort terminato	2018-07-03-13-25-01
+Inizio Analisi Soggetto: 133019	2018-07-03-13-25-02
+	Inizio esperimento:10-Motort	2018-07-03-13-25-02
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-13-25-02
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-13-25-02
+		Script: MS_hcp_icablpenv terminato	2018-07-03-13-41-47
+	Esperimento: 10-Motort terminato	2018-07-03-13-41-47
+Inizio Analisi Soggetto: 133019	2018-07-03-13-41-48
+	Inizio esperimento:10-Motort	2018-07-03-13-41-48
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-13-41-48
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-13-41-48
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-14-58-48
+	Esperimento: 10-Motort terminato	2018-07-03-14-58-48
+Inizio Analisi Soggetto: 133019	2018-07-03-14-58-49
+	Inizio esperimento:11-Motort	2018-07-03-14-58-49
+		Script da eseguire:MS_hcp_icablpenv; 	2018-07-03-14-58-49
+		Inizio Script:MS_hcp_icablpenv	2018-07-03-14-58-49
+		Script: MS_hcp_icablpenv terminato	2018-07-03-15-15-07
+	Esperimento: 11-Motort terminato	2018-07-03-15-15-07
+Inizio Analisi Soggetto: 133019	2018-07-03-15-15-08
+	Inizio esperimento:11-Motort	2018-07-03-15-15-08
+		Script da eseguire:MS_hcp_icablpdyn; 	2018-07-03-15-15-08
+		Inizio Script:MS_hcp_icablpdyn	2018-07-03-15-15-08
+		Script: MS_hcp_icablpdyn terminato	2018-07-03-16-18-10
+	Esperimento: 11-Motort terminato	2018-07-03-16-18-10
+Inizio Analisi Soggetto: 140117	2018-07-09-16-08-39
+	Inizio esperimento:10-Motort	2018-07-09-16-08-39
+		Script da eseguire:hcp_baddata; 	2018-07-09-16-08-39
+		Inizio Script:hcp_baddata	2018-07-09-16-08-39
+Inizio Analisi Soggetto: 140117	2018-07-12-14-50-41
+	Inizio esperimento:10-Motort	2018-07-12-14-50-41
+		Script da eseguire:hcp_baddata; 	2018-07-12-14-50-41
+		Inizio Script:hcp_baddata	2018-07-12-14-50-41
+		Script: hcp_baddata terminato	2018-07-12-16-33-49
+	Esperimento: 10-Motort terminato	2018-07-12-16-33-49
+Inizio Analisi Soggetto: 140117	2018-07-12-16-33-50
+	Inizio esperimento:10-Motort	2018-07-12-16-33-50
+		Script da eseguire:hcp_icaclass; 	2018-07-12-16-33-50
+		Inizio Script:hcp_icaclass	2018-07-12-16-33-50
+		Script: hcp_icaclass terminato	2018-07-12-19-38-40
+	Esperimento: 10-Motort terminato	2018-07-12-19-38-40
+Inizio Analisi Soggetto: 140117	2018-07-12-19-38-43
+	Inizio esperimento:11-Motort	2018-07-12-19-38-43
+		Script da eseguire:hcp_baddata; 	2018-07-12-19-38-43
+		Inizio Script:hcp_baddata	2018-07-12-19-38-43
+		Script: hcp_baddata terminato	2018-07-12-20-03-41
+	Esperimento: 11-Motort terminato	2018-07-12-20-03-41
+Inizio Analisi Soggetto: 140117	2018-07-12-20-03-41
+	Inizio esperimento:11-Motort	2018-07-12-20-03-41
+		Script da eseguire:hcp_icaclass; 	2018-07-12-20-03-41
+		Inizio Script:hcp_icaclass	2018-07-12-20-03-41
+		Script: hcp_icaclass terminato	2018-07-12-23-14-29
+	Esperimento: 11-Motort terminato	2018-07-12-23-14-29
+Inizio Analisi Soggetto: 140117	2018-07-12-23-14-31
+	Inizio esperimento:3-Restin	2018-07-12-23-14-31
+		Script da eseguire:hcp_baddata; 	2018-07-12-23-14-31
+		Inizio Script:hcp_baddata	2018-07-12-23-14-31
+		Script: hcp_baddata terminato	2018-07-12-23-57-11
+	Esperimento: 3-Restin terminato	2018-07-12-23-57-11
+Inizio Analisi Soggetto: 140117	2018-07-12-23-57-12
+	Inizio esperimento:3-Restin	2018-07-12-23-57-12
+		Script da eseguire:hcp_icaclass; 	2018-07-12-23-57-12
+		Inizio Script:hcp_icaclass	2018-07-12-23-57-12
+		Script: hcp_icaclass terminato	2018-07-13-00-52-21
+	Esperimento: 3-Restin terminato	2018-07-13-00-52-21
+Inizio Analisi Soggetto: 140117	2018-07-13-00-52-22
+	Inizio esperimento:4-Restin	2018-07-13-00-52-22
+		Script da eseguire:hcp_baddata; 	2018-07-13-00-52-22
+		Inizio Script:hcp_baddata	2018-07-13-00-52-22
+		Script: hcp_baddata terminato	2018-07-13-01-20-29
+	Esperimento: 4-Restin terminato	2018-07-13-01-20-29
+Inizio Analisi Soggetto: 140117	2018-07-13-01-20-30
+	Inizio esperimento:4-Restin	2018-07-13-01-20-30
+		Script da eseguire:hcp_icaclass; 	2018-07-13-01-20-30
+		Inizio Script:hcp_icaclass	2018-07-13-01-20-30
+		Script: hcp_icaclass terminato	2018-07-13-02-27-15
+	Esperimento: 4-Restin terminato	2018-07-13-02-27-15
+Inizio Analisi Soggetto: 140117	2018-07-13-02-27-16
+	Inizio esperimento:5-Restin	2018-07-13-02-27-16
+		Script da eseguire:hcp_baddata; 	2018-07-13-02-27-16
+		Inizio Script:hcp_baddata	2018-07-13-02-27-16
+		Script: hcp_baddata terminato	2018-07-13-02-42-18
+	Esperimento: 5-Restin terminato	2018-07-13-02-42-18
+Inizio Analisi Soggetto: 140117	2018-07-13-02-42-19
+	Inizio esperimento:5-Restin	2018-07-13-02-42-19
+		Script da eseguire:hcp_icaclass; 	2018-07-13-02-42-19
+		Inizio Script:hcp_icaclass	2018-07-13-02-42-19
+		Script: hcp_icaclass terminato	2018-07-13-04-08-22
+	Esperimento: 5-Restin terminato	2018-07-13-04-08-22
